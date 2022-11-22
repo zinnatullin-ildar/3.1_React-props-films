@@ -1,7 +1,7 @@
 # Рейтинг фильмов
 
 Необходимо реализовать компонент отображающий рейтинг фильма в виде звезд:
-![Список фильмов](https://github.com/zinnatullin-ildar/3.1_React-props-films/blob/master/res/preview.png)
+![Список фильмов](https://github.com/netology-code/ra16-homeworks/blob/master/props/films/assets/preview.png)
 
 ## Описание компонента
 
